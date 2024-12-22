@@ -1,0 +1,27 @@
+adaptive_interview/                # Root project directory
+├── app.py                      # Main Streamlit application
+├── requirements.txt            # Python dependencies
+│
+├── utils/                      # Utility modules directory
+│   ├── __init__.py            # Make utils a package
+│   ├── code_executor.py       # Code execution logic
+│   ├── problem_generator.py   # Problem generation using LLM
+│   ├── difficulty_analyzer.py # Difficulty adjustment logic
+│   ├── embeddings.py         # Vector embeddings utilities
+│   └── data_generator.py     # Dataset generation logic
+│
+├── data/                      # Data directory
+│   ├── generated/            # Generated problems and datasets
+│   │   ├── python/          # Generated Python problem files
+│   │   ├── sql/            # Generated SQL datasets
+│   │   └── pandas/         # Generated Pandas datasets
+│   │
+│   └── templates/           # Template data directory
+│       └── sample_data/    # Sample datasets
+│           ├── e_commerce.csv
+│           ├── customer_orders.csv
+│           └── product_inventory.csv
+│
+└── templates/                 # Template directory
+    └── prompts/              # LLM prompt templates
+        └── problem_templates.py  # Problem generation templates
