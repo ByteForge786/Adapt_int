@@ -1,0 +1,6 @@
+customer_id,customer_name,email,join_date,total_orders,total_spent,customer_segment
+C001,John Smith,john.smith@email.com,2023-10-15,5,299.95,regular
+C002,Emily Johnson,emily.j@email.com,2023-11-01,3,179.97,new
+C003,Michael Brown,m.brown@email.com,2023-09-20,8,599.92,premium
+C004,Sarah Wilson,sarah.w@email.com,2023-12-05,2,119.96,new
+C005,Robert Davis,r.davis@email.com,2023-08-30,12,899.88,premium
