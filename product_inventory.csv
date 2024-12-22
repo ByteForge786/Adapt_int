@@ -1,0 +1,6 @@
+product_id,product_name,category,supplier_id,unit_price,stock_quantity,reorder_point,last_restocked
+P123,Eco-Friendly Water Bottle,Accessories,S01,29.99,150,50,2024-01-01
+P456,Wireless Earbuds,Electronics,S02,49.99,75,25,2023-12-28
+P789,Yoga Mat,Fitness,S03,19.99,200,75,2024-01-02
+P101,Smart Watch,Electronics,S02,99.99,45,20,2023-12-30
+P202,Running Shoes,Fitness,S04,79.99,100,30,2024-01-03
