@@ -1,0 +1,6 @@
+transaction_id,customer_id,product_id,purchase_date,quantity,unit_price,total_amount,payment_method
+1001,C001,P123,2024-01-01,2,29.99,59.98,credit_card
+1002,C002,P456,2024-01-01,1,49.99,49.99,paypal
+1003,C003,P789,2024-01-02,3,19.99,59.97,debit_card
+1004,C001,P456,2024-01-02,1,49.99,49.99,credit_card
+1005,C004,P123,2024-01-03,2,29.99,59.98,paypal
